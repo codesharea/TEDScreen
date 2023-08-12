@@ -1,7 +1,7 @@
 # TEDScreen
 Paper: An Artificial Intelligence Model for Screening Computed Tomography Imaging for Thyroid Eye Disease
 
-<img src="imgs/model.png" width="700">
+<img src="imgs/model.jpg" width="700">
 
 ## Requirements
 Python 3.8 <br/>
