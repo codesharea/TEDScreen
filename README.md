@@ -32,7 +32,7 @@ img = resize(img)
 pred = np.argmax(model.predict(to_3dimg(img, cm=cmap)))
 ````
 
-#### Artifact correction examples: <br />
+#### Prediction outcome: <br />
 ````
 plt.imshow(img[0], cmap)
 plt.title(f'Prediction: {classes[pred]}')
