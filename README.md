@@ -15,7 +15,6 @@ vgg_ted_model.h5 [Google Drive](https://drive.google.com/file/d/1iqStt7Hb2w11dLq
 ## Use the Model
 ````
 from tensorflow.keras.models import load_model
-import matplotlib
 import matplotlib.pyplot as plt
 import cv2
 import numpy as np
