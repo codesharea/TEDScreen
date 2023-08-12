@@ -9,7 +9,7 @@ tensorflow 2.4.0 <br/>
 opencv-python 4.5.5
 
 ## Pretrained Model
-vgg_ted_model.h5 [Google Drive]([https://pan.baidu.com/s/1cX8t3OHLCpVb7HI0AumQqA?pwd=xqbt](https://drive.google.com/file/d/1iqStt7Hb2w11dLqgfRPI7Qq1sCKAxsV7/view?usp=sharing))
+vgg_ted_model.h5 [Google Drive](https://drive.google.com/file/d/1iqStt7Hb2w11dLqgfRPI7Qq1sCKAxsV7/view?usp=sharing)
 
 
 ## Use the Model
