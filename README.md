@@ -26,8 +26,8 @@ model = load_model('vgg_ted_model.h5')
 # predict the provided image
 img_path = 'imgs/img_3.png'
 img = cv2.imread(img_path)[:,:,0]
-
 img = resize(img)
+
 pred = np.argmax(model.predict(to_3dimg(img, cm=cmap)))
 ````
 
